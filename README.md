@@ -15,7 +15,7 @@ Privacy-first, hands-free voice assistant that runs locally on Windows. Offline 
 
 > `Python` · `faster-whisper` · `Vosk` · `Playwright` · `pyttsx3` · `PyInstaller` · `React`
 
-### [Face Recognition System](https://github.com/ShubhXDev3200/REPO-NAME)
+### [Face Recognition System](https://github.com/ShubhXDev3200/Face-Recognition)
 Real-time face enrollment and recognition using CNN-based embeddings, with a database-backed record system for identity matching. Approximately 95% recognition accuracy on the test set.
 
 > `Python` · `OpenCV` · `CNN` · `NumPy` · `SQLite`
