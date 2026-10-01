@@ -4,7 +4,7 @@ Software engineer focused on backend systems, applied AI, and low-level graphics
 
 B.Tech Computer Science Engineering student at Parul Institute of Technology (2023 - 2027), based in Vadodara, India. Currently seeking Software Engineering roles.
 
-[Portfolio](https://shubhamchaudhary3200.vercel.app) · [Email](mailto:chaudharyshubham1020@gmail.com) · [LinkedIn](https://linkedin.com/in/your-handle)
+[Portfolio](https://shubhamchaudhary3200.vercel.app) · [Email](mailto:chaudharyshubham1020@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubhamchaudharyme)
 
 ---
 
