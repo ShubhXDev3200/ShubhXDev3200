@@ -1,69 +1,52 @@
 # Shubham Chaudhary
 
-I build infrastructure and developer tools — the kind of software that other software runs on.
+Software engineer focused on backend systems, applied AI, and low-level graphics programming.
 
-Currently exploring the internals of serverless platforms, browser-based runtimes, and AI-native development environments.
+B.Tech Computer Science Engineering student at Parul Institute of Technology (2023 - 2027), based in Vadodara, India. Currently seeking Software Engineering roles.
+
+[Portfolio](https://shubhamchaudhary3200.vercel.app) · [Email](mailto:chaudharyshubham1020@gmail.com) · [LinkedIn](https://linkedin.com/in/your-handle)
 
 ---
 
 ## Projects
 
-### [Agent-Sandbox](https://github.com/vivek1504/agent-sandbox)
-Give any AI agent its own disposable Linux machine. Firecracker microVM sandboxing with millisecond snapshot restore, per-VM network isolation with egress controls, and native MCP support.
+### [ATLAS – Multi-Agent AI System](https://github.com/ShubhXDev3200/AtlasAgent)
+Multi-agent orchestration platform that routes requests across Chat, RAG, Gmail, and Coding agents through a central orchestrator. Includes a two-stage code generation and review pipeline (Code Generation and Code Critic agents), RAG retrieval backed by ChromaDB, PostgreSQL, and Redis caching, JWT-secured APIs, and support for both cloud and local (Ollama) LLM inference.
 
-> `Firecracker` · `MCP` · `vsock` · `KVM` · `Agents-Sandbox`
+> `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `ChromaDB` · `JWT` · `Ollama`
 
-### [serverless](https://github.com/vivek1504/serverless)
-Firecracker microVM-based function execution platform — the v1 codebase that evolved into Agent-Sandbox. Functions run in isolated VMs with warm-pool reuse and snapshot restore, scheduled by a hand-written deficit round-robin scheduler.
+### [Self-Healing RAG Pipeline](https://github.com/ShubhXDev3200/REPO-NAME)
+Retrieval-augmented generation pipeline with an automated validation layer that detects poor or irrelevant retrievals and triggers self-correction, improving answer accuracy without manual intervention.
 
-> `Firecracker` · `Node.js` · `vsock` · `KVM` · `TypeScript`
+> `Python` · `LangChain` · `LangGraph` · `Embeddings` · `Vector Database`
 
-### [NagarSeva](https://github.com/vivek1504/NagarSeva)
-AI-powered civic issue monitoring platform for municipal corporations with automated pothole and garbage detection, role-based workflows, and mobile apps for field operations.
+### [Face Recognition System](https://github.com/ShubhXDev3200/REPO-NAME)
+Real-time face enrollment and recognition using CNN-based embeddings, with a database-backed record system for identity matching. Approximately 95% recognition accuracy on the test set.
 
-> `YOLOv8` · `FastAPI` · `React` · `React Native` · `PostgreSQL`
+> `Python` · `OpenCV` · `CNN` · `NumPy` · `SQLite`
 
-### [Forge](https://github.com/vivek1504/Forge) · [Live](https://forge.vivekjadhav.xyz)
-In-browser IDE powered by WebContainers. Write, run, and preview React, Vue, Svelte, and Node.js projects with zero local setup — Monaco editor, integrated terminal, live HMR preview.
+### [Voxel Engine](https://github.com/ShubhXDev3200/REPO-NAME)
+Voxel rendering engine written in C++ with OpenGL and GLSL shaders.
 
-> `WebContainers` · `React` · `Monaco Editor` · `xterm.js` · `TypeScript`
-
-### [EHR Annotation Platform](https://github.com/vivek1504/EHR)
-
-LLM-assisted annotation backend for EHR data. Extracts medical entities from clinical notes via LLM inference and supports human-in-the-loop review workflows for healthcare AI datasets.
-
-> `TypeScript` · `Hono` · `PostgreSQL` · `Prisma` · `Groq LLM`
-
-
-### [Spark](https://github.com/vivek1504/spark) · [Live](https://spark.vivekjadhav.xyz)
-AI website builder — natural-language prompts become LLM-generated React apps, previewed instantly in the browser via WebContainers.
-
-> `TypeScript` · `WebContainers` · `Groq` · `Clerk`
+> `C++` · `OpenGL` · `GLSL`
 
 ---
 
 ## Stack
 
 ```txt
-Languages     TypeScript · JavaScript
-Systems       Linux · KVM · Firecracker · vsock · Unix sockets
-Backend       Node.js · Docker · Express
-Frontend      React · Vite · TailwindCSS
-Tooling       WebContainers · Monaco Editor · xterm.js
+Languages     C++ · Python · C · SQL
+Backend       FastAPI · JWT · REST APIs
+Databases     PostgreSQL · MySQL · MongoDB · Redis · SQLite
+AI / ML       RAG · LangChain · LangGraph · ChromaDB · OpenCV · Ollama
+Graphics      OpenGL · GLSL
+Tooling       Git · GitHub · Linux · VS Code · Visual Studio
 ```
 
 ---
 
 ## Currently
 
-- Exploring virtualization internals, IPC, and execution isolation
-- Building browser-native and serverless developer platforms
-- Interested in infrastructure, runtime, and platform engineering
-
----
-
-<p align="left">
-  <a href="https://github.com/vivek1504">
-    <img src="https://komarev.com/ghpvc/?username=vivek1504&color=grey&style=flat" alt="profile views" />
-  </a>
-</p>
+- Building multi-agent systems and retrieval pipelines with measurable reliability
+- Strengthening data structures, algorithms, and system design fundamentals
+- Looking for a Software Engineering role on real-world software products
